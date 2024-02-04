@@ -1,0 +1,53 @@
+{
+  "Lua.diagnostics.globals": [
+    "ITEM_BIND_ON_EQUIP",
+    "ITEM_BIND_TO_BNETACCOUNT",
+    "ITEM_ACCOUNTBOUND",
+    "ITEM_BNETACCOUNTBOUND",
+    "ITEM_BIND_QUEST",
+    "ITEM_SOULBOUND",
+    "ITEM_BIND_TO_ACCOUNT",
+    "ITEM_BIND_ON_PICKUP",
+    "ITEM_BIND_ON_USE",
+    "BIND_TRADE_TIME_REMAINING",
+    "TooltipUtil",
+    "LE_EXPANSION_DRAGONFLIGHT",
+    "C_TooltipInfo",
+    "BankFrame",
+    "ClearItemButtonOverlay",
+    "SetItemButtonQuality",
+    "SetItemButtonCount",
+    "SetItemButtonDesaturated",
+    "CreateObjectPool"
+  ],
+  "Notes.notesLocation": ".notes",
+  "Lua.diagnostics.ignoredFiles": "Disable",
+  "Lua.diagnostics.libraryFiles": "Disable",
+  "Lua.hint.setType": true,
+  "Lua.codeLens.enable": false,
+  "Lua.diagnostics.groupFileStatus": {
+    "strong": "Any",
+    "strict": "Any",
+    "type-check": "Any",
+    "luadoc": "Any",
+    "unused": "Any",
+    "unbalanced": "Any",
+    "redefined": "Any",
+    "ambiguity": "Any",
+    "duplicate": "Any",
+    "codestyle": "None"
+  },
+  "Lua.diagnostics.groupSeverity": {
+    "strict": "Error",
+    "unbalanced": "Error",
+    "redefined": "Error",
+    "strong": "Error",
+    "type-check": "Error",
+    "ambiguity": "Error",
+    "unused": "Warning",
+    "duplicate": "Error",
+    "luadoc": "Warning",
+    "codestyle": "Information"
+  },
+  "Lua.runtime.version": "Lua 5.1"
+}

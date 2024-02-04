@@ -1,0 +1,17 @@
+## Interface: 100205
+
+## Title: BetterBags_Bindings
+## Notes: Adds categories for different Bound/Unbound items to BetterBags.
+## Author: Zeptognome
+## Version: v1.0
+## X-Date: 2023-12-15T06:46:40Z
+## IconTexture: Interface\Icons\inv_misc_bag_15
+
+## DefaultState: Enabled
+## Dependencies: BetterBags
+
+## X-Category: Bags & Inventory
+## X-License: MIT
+
+BetterBags_Bindings.lua
+
